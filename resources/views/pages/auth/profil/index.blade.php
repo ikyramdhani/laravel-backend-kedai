@@ -54,9 +54,9 @@
                                         <div class="slash"></div> Marksman Player
                                     </div>
                                 </div>
-                                Iky is a proflayer gaming name in <b>Indonesia</b>,
+                                Iky is a Pro Player gaming name in <b>Indonesia</b>,
                                 He is someone who is generous and kind, also saves diligently and many say is also handsome
-                                <b>'pak ape'</b>.
+                                <b>'Pak AP'</b>.
                             </div>
                             <div class="card-footer text-center">
                                 <div class="font-weight-bold mb-2">Follow Iky On your sosmed</div>

@@ -85,7 +85,7 @@
                                     <select class="form-control selectric @error('category') is-invalid @enderror"
                                             name="category">
                                         <option value="food" {{ old('category', $product->category) === 'food' ? 'selected' : '' }}>Food</option>
-                                        <option value="drink" {{ old('category', $product->category) === 'drink' ? 'selected' : '' }}>Drink</option>
+                                        <option value="drinks" {{ old('category', $product->category) === 'drinks' ? 'selected' : '' }}>Drinks</option>
                                         <option value="snack" {{ old('category', $product->category) === 'snack' ? 'selected' : '' }}>Snack</option>
                                     </select>
                                     @error('category')
